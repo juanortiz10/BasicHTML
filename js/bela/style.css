@@ -1,0 +1,75 @@
+@font-face {
+  font-family: "Cashew Apple Ale";
+  font-weight: normal;
+  font-style: normal;
+  src: url("../fonts/Cashew Apple Ale.eot");
+  src: url("../fonts/Cashew Apple Ale.otf"), url("../fonts/Cashew Apple Ale.ttf"); }
+
+html,body{
+	background-color: #F2A5CC;
+}
+
+a#next{
+	font-size: 2em;
+}
+img.baile{
+  display: block;
+  margin: 5% auto;
+  width: 250px;
+  height: 362px;
+  border-radius: 71px;
+}
+
+img.start{
+  display: block;
+  margin: 15% auto;
+  width: 301px;
+  height: 358px;
+  border-radius: 71px;
+}
+
+p#palabras{
+  margin-top: 20%;
+  text-align: center;
+  font-family: "Cashew Apple Ale";
+  font-size: 2em;
+  text-align: justify;
+}
+
+p#palabras2{
+  margin-top: 5%;
+  text-align: center;
+  font-family: "Cashew Apple Ale";
+  font-size: 2em;
+  text-align: justify;
+}
+
+p#palabras3{
+  margin-top: 5%;
+  text-align: center;
+  font-family: "Cashew Apple Ale";
+  font-size: 2em;
+  text-align: justify;
+}
+
+p#palabras4{
+  display: block;
+  margin: 5% auto;
+  text-align: center;
+  font-family: "Cashew Apple Ale";
+  font-size: 3em;
+  text-align: justify;
+}
+p#palabras5{
+  text-align: center;
+  font-family: "Cashew Apple Ale";
+  font-size: 2em;
+  text-align: justify;
+}
+
+p#palabras6{
+  text-align: center;
+  font-family: "Cashew Apple Ale";
+  font-size: 2em;
+  text-align: justify;
+}
